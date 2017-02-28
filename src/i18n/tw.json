@@ -1,0 +1,29 @@
+{
+  "_comment": "===================== login ========================",
+
+  "account": "帳號",
+  "password": "密碼",
+  "submit": "送出",
+
+  "_comment": "===================== menu ========================",
+
+  "menu": "選單",
+  "information": "個人資料",
+  "about": "關於我",
+  "experience": "工作經歷",
+  "work": "相關作品",
+
+  "_comment": "===================== Information ========================",
+
+  "name": "姓名",
+  "birthday": "出生日期",
+  "sex" : "性別",
+  "maritalstatus" :"婚姻狀況",
+  "address":"居住地址",
+  "military":"兵役狀況",
+  "birthplace":"出生地址",
+  "phone":"聯絡電話",
+  "email":"電郵信箱",
+  "education":"最高學歷"
+
+}

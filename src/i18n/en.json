@@ -1,0 +1,28 @@
+{
+  "_comment": "===================== login ========================",
+
+  "account": "Account",
+  "password": "Password",
+  "submit": "Submit",
+
+  "_comment": "===================== menu ========================",
+
+  "menu": "Menu",
+  "information": "Information",
+  "about": "About me",
+  "experience": "Experience",
+  "work": "Work show",
+
+  "_comment": "===================== Information ========================",
+
+  "name": "Name",
+  "birthday": "Birthday",
+  "sex": "Sex",
+  "maritalstatus": "Maritalstatus",
+  "address": "Address",
+  "military": "Military",
+  "birthplace": "Birthplace",
+  "phone": "Phone",
+  "email": "Email",
+  "education": "Education"
+}

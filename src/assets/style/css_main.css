@@ -1,0 +1,13 @@
+/*-------------LOGIN----------------*/
+.login_box {
+  width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px #123456 solid;
+}
+/*-------------HOME----------------*/
+.home {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 50px;
+}
